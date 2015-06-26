@@ -9,7 +9,7 @@ bower install biu
 
 ## Usage and Demo
 
-Visit [Biu](http://aprilorange.github.io/biu)
+Visit [Biu](http://canvs.github.io/biu)
 
 ## Development
 
