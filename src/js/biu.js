@@ -3,14 +3,17 @@
   // feel free to add your own features
   // or beautify it
   var biuOpts = {
-    height: '50px',
-    lineHeight: '50px',
-    top: '-55px',
+    width:'200px',
+    height: '24px',
+    lineHeight: '24px',
+    right: '-220px',
+    top:'50px',
     closeButton: 'x',
-    delay: 5000
+    delay: 2500
+
   };
   window.biuOpts = biuOpts;
-  var style = 'height:' + biuOpts.height + ';line-height:' + biuOpts.lineHeight + ';top:' + biuOpts.top;
+  var style = 'width:'+ biuOpts.width + ';height:' + biuOpts.height + ';line-height:' + biuOpts.lineHeight + ';right:' + biuOpts.right+';top:'+biuOpts.top;
 
   var biu = function(argv) {
     
